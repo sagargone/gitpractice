@@ -1,4 +1,4 @@
-package codes2;
+package com.java;
 
 import java.util.Scanner;
 
