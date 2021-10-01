@@ -13,7 +13,7 @@ public class Substraction {
 		int num2=sc.nextInt();
 		int Sub=0;
 		Sub=num1-num2;
-		System.out.println(Sub);
+		System.out.println("Subtraction of num1 and num2 is : "+Sub);
 
 	}
 
